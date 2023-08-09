@@ -7,6 +7,7 @@ Simple & easy to use bell system for QB/Qbox Using OX
 - [qbcore framework](https://github.com/qbcore-framework)
 
 # Installation
+- Install Dependencies (download a release not source)
 - Legit drag and drop
 
 # Features
