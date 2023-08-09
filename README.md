@@ -1,5 +1,5 @@
 # synos_bells
-Easy to use bell system for QB/Qbox Using OX
+Simple & easy to use bell system for QB/Qbox Using OX
 
 # Dependencies
 - [ox-target](https://github.com/overextended/ox_target/releases/tag/v1.12.0)
